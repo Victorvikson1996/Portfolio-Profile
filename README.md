@@ -24,4 +24,4 @@ Everyday I think about how it would feel like to have a diverse skillset across 
 - React Native
 - Technology trends
 
-[Email me!!](mailto:ezeavictor2016@outlook.com) |<a href="https://twitter.com/Victorebukaezea">Twitter</a> | <a href="https://www.linkedin.com/in/ezea-victor-abbb19173/">Linkedin</a>
+[Email me!!](mailto:ezeavictor2016@outlook.com) |<a href="https://twitter.com/Victorebukaezea">Twitter</a> | <a href="https://www.linkedin.com/in/ezea-victor-abbb19173/">Linkedin</a> | <a href="https://drive.google.com/file/d/14DLNk0QuU1bVCn9v9yleiRv8Yh7PZgZw/view?usp=sharing">Resume</a>
