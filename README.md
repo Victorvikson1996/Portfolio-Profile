@@ -1,6 +1,6 @@
 # Hi, I'm Victor 👋🏾 👩🏾‍💻
 Hello!! welcome!!!! the name's Victor, for the most part I'm a React/React Native  Developer building  scalable applications for
-Andriod, iOS and Web. :new_moon_with_face:.
+Andriod, iOS and Web. :new_moon_with_face:. Curently learning BlockChain Developemnt (DeFi, NFT and Ethereum Developement) with BuildSpace
 
 #### What I work on these days :briefcase:
 
@@ -11,10 +11,11 @@ Everyday I think about how it would feel like to have a diverse skillset across 
 - Redux
 - GraphQL
 - TypeScript
-- Cloud Computing
-- Tensorflow
-- Python
-- Flutter
+- NFT
+- Etheruem Developement
+- Blockchain
+- Web3
+- DeFi
 
 #### You can ask me about :fax:
 
@@ -24,4 +25,4 @@ Everyday I think about how it would feel like to have a diverse skillset across 
 - React Native
 - Technology trends
 
-[Email me!!](mailto:ezeavictor2016@outlook.com) |<a href="https://twitter.com/Victorebukaezea">Twitter</a> | <a href="https://www.linkedin.com/in/ezea-victor-abbb19173/">Linkedin</a> | <a href="https://drive.google.com/file/d/14DLNk0QuU1bVCn9v9yleiRv8Yh7PZgZw/view?usp=sharing">Resume</a>
+[Email me!!](mailto:ezeavictor2016@outlook.com) |<a href="https://twitter.com/Victorebukaezea">Twitter</a> | <a href="https://www.linkedin.com/in/ezea-victor-chukwuebuka-abbb19173/">Linkedin</a> | <a href="https://drive.google.com/file/d/14DLNk0QuU1bVCn9v9yleiRv8Yh7PZgZw/view?usp=sharing">Resume</a>
