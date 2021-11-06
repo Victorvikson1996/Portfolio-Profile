@@ -1,13 +1,13 @@
 # Hi, I'm Victor 👋🏾 👩🏾‍💻
-Hello!! welcome!!!! the name's Victor, for the most part I'm a React/React Native  Developer building  scalable applications for
+ I'm a React/React Native  Developer building  scalable applications for
 Andriod, iOS and Web. :new_moon_with_face:. Curently learning BlockChain Developemnt (DeFi, NFT and Ethereum Developement) with BuildSpace
 
 #### What I work on these days :briefcase:
 
-Aside from thinking about my next super cool Open Source project, I work as an Intern as a Mobile Software Developer  on various projects, I also work on React web app projects 
+ I work as an Intern as a Mobile Software Developer  on various projects, I also work on React web app projects 
 #### What I'm learning :book:
 
-Everyday I think about how it would feel like to have a diverse skillset across various stacks in tech, and so I figured i might as well just start now, Here's a list of technologies/tools/concepts I intend to grasp before the year runs out:
+
 - Redux
 - GraphQL
 - TypeScript
