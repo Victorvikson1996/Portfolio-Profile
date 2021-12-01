@@ -1,5 +1,5 @@
-# Hi, I'm Victor 👋🏾 👩🏾‍💻
-[![follow @victorebukaezea](https://img.shields.io/twitter/follow/victorebukaezea.svg?style=for-the-badge&logo=TWITTER&logoColor=FFFFFF&labelColor=00aced&logoWidth=20&color=lightgray)](https://twitter.com/victorebukaezea)
+ # Hi, I'm Victor 👋🏾 👩🏾‍💻   [![follow @victorebukaezea](https://img.shields.io/twitter/follow/victorebukaezea.svg?style=for-the-badge&logo=TWITTER&logoColor=FFFFFF&labelColor=00aced&logoWidth=20&color=lightgray)](https://twitter.com/victorebukaezea)
+
  I'm a React/React Native  Developer building  scalable applications for
 Andriod, iOS and Web. :new_moon_with_face:. Curently learning BlockChain Developemnt (DeFi, NFT and Ethereum Developement) with BuildSpace
 
