@@ -26,4 +26,4 @@ Andriod, iOS and Web. :new_moon_with_face:. Curently learning BlockChain Develop
 - React Native
 - Technology trends
 
-[Email me!!](mailto:ezeavictor2016@outlook.com) |<a href="https://twitter.com/Victorebukaezea">Twitter</a> | <a href="https://www.linkedin.com/in/ezea-victor-chukwuebuka-abbb19173/">Linkedin</a> | <a href="https://drive.google.com/file/d/14DLNk0QuU1bVCn9v9yleiRv8Yh7PZgZw/view?usp=sharing">Resume</a>  | <a href="https://victorezea.vercel.app/">portfolio</a> 
+[Email me!!](mailto:ezeavictorchukwuebuka@gmail.com) |<a href="https://twitter.com/Victorebukaezea">Twitter</a> | <a href="https://www.linkedin.com/in/ezea-victor-chukwuebuka-abbb19173/">Linkedin</a> | <a href="https://www.canva.com/design/DAE1pG0G64Q/IxSoono0G5d59QauO8U9_Q/view?utm_content=DAE1pG0G64Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1">Resume</a>  | <a href="https://victorezea.vercel.app/">portfolio</a> 
