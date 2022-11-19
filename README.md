@@ -12,10 +12,8 @@ Andriod, iOS and Web. :new_moon_with_face:. Curently learning BlockChain Develop
 - Redux
 - GraphQL
 - TypeScript
-- NFT
 - Etheruem Developement
 - Blockchain
-- Web3
 - DeFi
 
 #### You can ask me about :fax:
