@@ -1,6 +1,6 @@
  # Hi, I'm Victor 👋🏾 👩🏾‍💻   [![follow @victorebukaezea](https://img.shields.io/twitter/follow/victorebukaezea.svg?style=for-the-badge&logo=TWITTER&logoColor=FFFFFF&labelColor=00aced&logoWidth=20&color=lightgray)](https://twitter.com/victorebukaezea)
 
- I'm a R&D,  Mobile Developer that builds scalable applications for
+ R&D Engineer, Mobile Software Engineer that builds scalable applications for
  iOS and Android.  :new_moon_with_face:. 
 
 #### What I work on these days :briefcase:
